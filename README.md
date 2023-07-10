@@ -11,4 +11,6 @@ El presente repositorio pretende dar lugar a la página web personal que contend
 - Venta y reclutamiento de HINODE.
 - Publicaciones cientificas.
 
-Cualquier punto faltante al día de hoy 9 de julio del 2023 será tomado en cuenta en caso de ser necesario.
+Cualquier punto faltante al día de hoy 9 de julio del 2023 será tomado en cuenta en caso de ser necesario. 
+
+Nota: Voy a utilizar Plunker para realizar el desarrollo de la Página, entro a la cuenta por medio de GitHub.
